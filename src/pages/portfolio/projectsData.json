@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Design",
+    "image": "./projectImages/bike.png",
+    "description": "So, picture this – This project was my first one done when I was at the university.\nIt's development was made in React.js/Ts and I worked on it's UI/Ux, Buttons pages in React and Inputs. 🚴‍♀️💨\nI brought in some Boostrap magic and worked on it's APIs.  – we've got this super interactive project that's easy on the eyes. You can basically draw out to. – the company loved the project!",
+    "technologies": ["UI/UX", "React.js", "Bootstrap", "HTML", "CSS"],
+    "github": "https://github.com/Nicolewase/HRM-Group2",
+    "deployed": "https://www.figma.com/file/m6Pk0ykjqRA76M9uuWVXGX/hr-mamagment?node-id=0%3A1&t=XrNumNVZm4kZXTvK-1",
+    "bgcolor": "var(--hl2-color)",
+    "id": "1"
+  },
+  { 
+    "title": "Game",
+    "image": "./projectImages/weather.png",
+    "technologies": ["JavaScript", "jQuery", "HTML", "CSS"],
+    "description": " It's a game you play pairing with another one. You set rounds that you play then follow the Instructions! ☀️\nIf you reach to rounds that you added then you start over– The game was developed with the use of HTML,CSS,JavaScript.\nBut the game opponent here is the computer – You can try it to just follow the instructions!",
+    "github": "https://github.com/Nancy-Sabrina-Ishimwe/ROCKPAPERSCISSORSFORJOB",
+    "deployed": "https://nancy-sabrina-ishimwe.github.io/ROCKPAPERSCISSORSFORJOB/",
+    "bgcolor": "var(--hl-color)",
+    "id": "2"
+  },
+  {
+    "title": "Story",
+    "image": "./projectImages/team.png",
+    "technologies": ["html", "Css"],
+    "description": "About this  – !\nImagine you want to make any kind of animations using coding – Just showing that it can be possible depending on how the clients asked 😉",
+    "github": "https://github.com/Nancy-Sabrina-Ishimwe/Short-story",
+    "deployed": "https://nancy-sabrina-ishimwe.github.io/Short-story/",
+    "bgcolor": "#6c4bf4",
+    "id": "3"
+  },
+  {
+    "title": "Calculator",
+    "image": "./projectImages/quiz.png",
+    "technologies": ["JavaScript", "HTML", "CSS"],
+    "description": "I did this learning. it's like a quiz app but all made using JavaScript,html and css. You just use it when doing your mathematics and has dark mode for people with eye problem😅",
+    "github": "https://github.com/Nancy-Sabrina-Ishimwe/CALCULATORJOB",
+    "deployed": "https://nancy-sabrina-ishimwe.github.io/CALCULATORJOB/",
+    "bgcolor": "#f85781",
+    "id": "4"
+  },
+
+  {
+    "title": "Entertainement",
+    "image": "./projectImages/P1.png",
+    "description": "As a fresh developer looking for experience I'm always improving my skills – For this page the clients needed an enternaiment page to add his own music but I did it for leaarning purpose and still working on it. 🏎️ 🎉",
+    "technologies": [ "HTML", "CSS"],
+    "github": "https://github.com/Nancy-Sabrina-Ishimwe/landing-pagejob/tree/master/landing-page-jobmain",
+    "deployed": "https://nancy-sabrina-ishimwe.github.io/landing-pagejob/landing-page-jobmain/",
+    "bgcolor": "#ffcc33",
+    "id": "1"
+  },
+
+  {
+    "title": "Planner",
+    "image": "./projectImages/planner.png",
+    "technologies": ["JavaScript", "Moment", "Bootstrap", "HTML", "CSS"],
+    "description": "My plan when I am jobless – Freelencing as I want to be a junior developer for now! 📝 ✅",
+    "github": "https://github.com/mdyeates/daily-planner",
+    "deployed": "https://mdyeates.github.io/daily-planner/",
+    "bgcolor": "#3e67ff",
+    "id": "6"
+  }
+] 
